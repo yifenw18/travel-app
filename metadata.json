@@ -1,0 +1,6 @@
+{
+  "name": "2027 日本關西親子自由行",
+  "description": "2027 日本關西親子自由行：行程規劃、地圖測距、預訂憑證(含PDF)、多幣別記帳、行前準備進度條與願望清單。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
